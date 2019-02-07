@@ -1,0 +1,23 @@
+h1 {
+    text-align:center;
+    font-size:33px;
+    font-family: 'Major Mono Display', monospace;
+}
+img {
+    width:450px;
+    height:300px;
+    border:double;
+}
+ul {
+    font-family: 'Major Mono Display', monospace;
+    border:double;
+}
+body {
+ background-image: url("https://i.pinimg.com/736x/08/4f/54/084f5470de855d67e2c6228a3c62185d.jpg");
+ background-color: #cccccc;
+}
+p {
+    text-align:center;
+    font-size:33px;
+    font-family: 'Major Mono Display', monospace;
+}
